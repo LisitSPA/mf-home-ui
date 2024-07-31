@@ -9,9 +9,9 @@
 Arquitectura del proyecto:
 
 - **`/src`**
-  - `index.ejs`
-  - `microfrontend-layout.html`
-  - `react-gufo-mf-root-config.ts`
+  - `/pages`
+  - `/components`
+  - `root.component.ts` 
 
 #### Importante
 
